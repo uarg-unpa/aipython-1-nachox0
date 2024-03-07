@@ -1,0 +1,7 @@
+print("taller de AIPython P1 E2")
+print()
+print("El", "Taller", "Es")
+print("Hola mundo                          ", "despierta", sep="-")
+print("Wake up", "Welcome", end="#*")
+print("Ya desperté")
+print("que bueno")
